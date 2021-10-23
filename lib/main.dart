@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
   Duration _duration=Duration();
   Duration _position=Duration();
    bool isPlaying =false;
-   String CurrentTime="00:00";
+   String CurrentTime="00:00  hi  ";
    String CompleteTime="00:00";
   @override
   void initState(){
